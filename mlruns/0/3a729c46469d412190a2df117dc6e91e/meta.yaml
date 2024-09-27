@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/pierl/OneDrive%20-%20Universit%C3%A0%20di%20Napoli%20Federico%20II/uni/LM_2ANNO/AI%20SYSTEMS%20ENGINEERING/PIGI/eserc1/AISE_Ch2/mlruns/0/3a729c46469d412190a2df117dc6e91e/artifacts
+end_time: 1727442397508
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3a729c46469d412190a2df117dc6e91e
+run_name: ambitious-quail-272
+run_uuid: 3a729c46469d412190a2df117dc6e91e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727442388669
+status: 3
+tags: []
+user_id: pierl
